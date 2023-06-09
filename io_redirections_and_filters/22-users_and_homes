@@ -1,0 +1,2 @@
+#!/bin/bash
+grep [[:users:]] /etc/passwd | grep [[:~:]] /ect/passwd
