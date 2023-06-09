@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d ":" /etx/passwd 
+cut -d ":" /etx/passwd | sort 
