@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d ":" /etx/passw
+cut -d ":" /etx/passwd 
