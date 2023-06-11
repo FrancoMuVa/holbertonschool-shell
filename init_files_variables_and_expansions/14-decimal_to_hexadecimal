@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%2x" "$DECIMAL"
+printf "%02x" "$DECIMAL"
