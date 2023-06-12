@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -S *.gif | cut -f 1 -d '.' | cat 
+ls -a -s *.gif | cut -f 1 -d '.' | cat
